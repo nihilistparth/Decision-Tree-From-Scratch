@@ -96,5 +96,7 @@ toestimatethe final accuracy
 ```
 ● Before Pruning the maximum accuracy was 68% after pruning it increased to 70%
 ```
+![image info](/question_3_1.png)
+![image info](/question_3_2.png)
 
 
